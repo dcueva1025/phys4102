@@ -1,4 +1,4 @@
-# This is my phys4102 repository for Experimental Physics ciyrse at CAifornia State University, Stanislaus.
+# This is my PHYS4102 repository for Experimental Physics course at California State University, Stanislaus.
 
 # This repository contains python code for the course that is to be graded.
 
